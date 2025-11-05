@@ -16,19 +16,19 @@ Hubungan Parent-Child:
 
 2. SEBUTKAN SEMUA WIDGET YANG DIGUNAKAN DAN JELASKAN FUNGSINYA
 
-1. MaterialApp - Widget root yang menyediakan material design theme dan konfigurasi aplikasi
-2. Scaffold - Struktur dasar halaman material design (appBar, body, floatingActionButton)
-3. AppBar - Bagian atas halaman yang menampilkan judul dan action buttons
-4. Padding - Memberikan jarak (padding) di sekitar child widget
-5. Column - Menyusun widget-widget children secara vertikal
-6. Material - Widget material design dengan elevation, color, dan shape
-7. InkWell - Memberikan efek ripple (tapis) ketika ditekan (onTap)
-8. Container - Kotak container untuk layout, padding, dan styling
-9. Row - Menyusun widget-widget children secara horizontal
-10. Icon - Menampilkan ikon material design
-11. Text - Menampilkan teks dengan styling tertentu
-12. SizedBox - Memberikan jarak tetap (spacing) antara widget
-13. ScaffoldMessenger - Untuk menampilkan SnackBar
+-MaterialApp - Widget root yang menyediakan material design theme dan konfigurasi aplikasi
+-Scaffold - Struktur dasar halaman material design (appBar, body, floatingActionButton)
+-AppBar - Bagian atas halaman yang menampilkan judul dan action buttons
+-Padding - Memberikan jarak (padding) di sekitar child widget
+-Column - Menyusun widget-widget children secara vertikal
+-Material - Widget material design dengan elevation, color, dan shape
+-InkWell - Memberikan efek ripple (tapis) ketika ditekan (onTap)
+-Container - Kotak container untuk layout, padding, dan styling
+-Row - Menyusun widget-widget children secara horizontal
+-Icon - Menampilkan ikon material design
+-Text - Menampilkan teks dengan styling tertentu
+-SizedBox - Memberikan jarak tetap (spacing) antara widget
+-ScaffoldMessenger - Untuk menampilkan SnackBar
   
 3. APA FUNGSI DARI WIDGET MATERIALAPP? MENGAPA SERING DIGUNAKAN SEBAGAI WIDGET ROOT?
 
